@@ -1,7 +1,7 @@
 # FastCart - E-commerce Website
 
 ## Overview
-RaSh is an e-commerce website built using Python. This repository contains the necessary files and folders to set up and run the website locally.
+FastCart is an e-commerce website built using Python. This repository contains the necessary files and folders to set up and run the website locally.
 
 ## Features
 - **Product Listings**: View a variety of products.
